@@ -15,21 +15,21 @@
 
 > React + Ant Design 的版本正在开发中，仓库地址：[react-manage-system](https://github.com/lin-xin/react-manage-system)
 
-[English document](https://github.com/lin-xin/manage-system/blob/master/README_EN.md)
+
 
 ## 项目截图
 
 ### 登录
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms3.png)
+![Image text](/screenshots/wms3.png)
 
-### 默认皮肤
+### 404页面
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms1.png)
+![Image text](/screenshots/wms1.png)
 
-### 浅绿色皮肤
+### 表格
 
-![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
+![Image text](/screenshots/wms2.png)
 
 ## 特别鸣谢
 
@@ -78,7 +78,7 @@ npm run build
 
 ### vue-schart
 
-vue.js 封装 sChart.js 的图表组件。访问地址：[vue-schart](https://github.com/xutian0521/vue-schart)
+vue.js 封装 sChart.js 的图表组件。
 
 <p><a href="https://www.npmjs.com/package/vue-schart"><img src="https://img.shields.io/npm/dm/vue-schart.svg" alt="Downloads"></a></p>
 
@@ -183,4 +183,4 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 
 ## License
 
-[MIT](https://github.com/xutian0521/ElemetuiForVueScaffold/blob/master/LICENSE)
+[MIT](/LICENSE)
