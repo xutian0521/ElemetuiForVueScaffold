@@ -6,15 +6,10 @@
   <a href="https://github.com/ElemeFE/element">
     <img src="https://img.shields.io/badge/element--ui-2.8.2-brightgreen.svg" alt="element-ui">
   </a>
-  <a href="https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE">
+  <a href="https://github.com/xutian0521/ElemetuiForVueScaffold/blob/master/LICENSE">
     <img src="https://img.shields.io/github/license/mashape/apistatus.svg" alt="license">
   </a>
-  <a href="https://github.com/lin-xin/vue-manage-system/releases">
-    <img src="https://img.shields.io/github/release/lin-xin/vue-manage-system.svg" alt="GitHub release">
-  </a>
-  <a href="https://lin-xin.gitee.io/example/work/#/donate">
-    <img src="https://img.shields.io/badge/%24-donate-ff69b4.svg" alt="donate">
-  </a>
+
 
 基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://lin-xin.gitee.io/example/work/)
 
@@ -35,12 +30,6 @@
 ### 浅绿色皮肤
 
 ![Image text](https://github.com/lin-xin/manage-system/raw/master/screenshots/wms2.png)
-
-## 赞赏
-
-请作者喝杯咖啡吧！(微信号：linxin_20)
-
-![微信扫一扫](https://lin-xin.gitee.io/images/weixin.jpg)
 
 ## 特别鸣谢
 
@@ -74,8 +63,8 @@
 ## 安装步骤
 
 ```
-git clone https://github.com/lin-xin/vue-manage-system.git      // 把模板下载到本地
-cd vue-manage-system    // 进入模板目录
+git clone git@github.com:xutian0521/ElemetuiForVueScaffold.git     // 把模板下载到本地
+cd ElemetuiForVueScaffold    // 进入模板目录
 npm install         // 安装项目依赖，等待安装完成之后，安装失败可用 cnpm 或 yarn
 
 // 开启服务器，浏览器访问 http://localhost:8080
@@ -89,7 +78,7 @@ npm run build
 
 ### vue-schart
 
-vue.js 封装 sChart.js 的图表组件。访问地址：[vue-schart](https://github.com/linxin/vue-schart)
+vue.js 封装 sChart.js 的图表组件。访问地址：[vue-schart](https://github.com/xutian0521/vue-schart)
 
 <p><a href="https://www.npmjs.com/package/vue-schart"><img src="https://img.shields.io/npm/dm/vue-schart.svg" alt="Downloads"></a></p>
 
@@ -194,4 +183,4 @@ import 'element-ui/lib/theme-default/index.css'; // 默认主题
 
 ## License
 
-[MIT](https://github.com/lin-xin/vue-manage-system/blob/master/LICENSE)
+[MIT](https://github.com/xutian0521/ElemetuiForVueScaffold/blob/master/LICENSE)
