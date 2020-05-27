@@ -1,4 +1,4 @@
-# vue elemet-ui  scaffold
+# elemet-ui for vue of system magnage scaffold
 
 <a href="https://github.com/vuejs/vue">
     <img src="https://img.shields.io/badge/vue-2.6.10-brightgreen.svg" alt="vue">
@@ -13,7 +13,6 @@
 
 基于 Vue + Element UI 的后台管理系统解决方案。[线上地址](https://lin-xin.gitee.io/example/work/)
 
-> React + Ant Design 的版本正在开发中，仓库地址：[react-manage-system](https://github.com/lin-xin/react-manage-system)
 
 
 
